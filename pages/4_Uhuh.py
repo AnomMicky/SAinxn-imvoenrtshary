@@ -9,6 +9,6 @@ if s1 == "Yes":
         s2 = st.selectbox(label="Do you that you can say INFINITE?", options=["No", "Yes"])
         if s2 == "Yes":
             st.write("Bahahhaha Tooo bad but U can't be that annoyed can you? 😂")
-            st.image("images/me.jpeg")
+            st.image("images/Me.jpeg")
 else:
     st.header("Do the quiz first and then come here")

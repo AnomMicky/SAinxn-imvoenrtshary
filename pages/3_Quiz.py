@@ -31,7 +31,7 @@ q4 = st.selectbox(label="What is something which I'll never get tired of doin?",
 if q4 != "Select one":
     st.write("Tch Tch you got it wrong again ☹️")
     st.write("Silly, It is ofc kissing you 😛😘")
-    st.image("images/kissing.png")
+    st.image("images/K.png")
 
 q5 = st.selectbox(label="Do I like annoying you?",
                   options=["Select one", "Noo", "Never would I ever love to annoy you"])
